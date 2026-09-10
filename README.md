@@ -47,7 +47,7 @@ wordweaver/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/wordweaver.git
+git clone https://github.com/runey-jesly/WordWeaver.git
 cd wordweaver
 ```
 

@@ -48,7 +48,7 @@ wordweaver/
 
 ```bash
 git clone https://github.com/runey-jesly/WordWeaver.git
-cd WordwWeaver
+cd WordWeaver
 ```
 
 ### 2. Install Python dependencies

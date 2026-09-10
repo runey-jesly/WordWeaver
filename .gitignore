@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Downloaded GPT-2 model weights / HuggingFace cache
+.cache/
+*.bin
+*.safetensors
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Story output files (user-generated data, not source)
+*_stories.txt
+stories/*_stories.txt
+!stories/.gitkeep
+
+# Editor settings
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
